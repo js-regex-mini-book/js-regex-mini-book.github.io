@@ -1,21 +1,21 @@
 import type { SidebarConfig } from "@vuepress/theme-default";
 
 export const sidebarEn: SidebarConfig = {
-  "/en/blog/": [
+  "/blog/": [
     // blogs
-    "/en/blog/about.md",
+    "/blog/about.md",
   ],
-  "/en/": [
-    "/en/forward.md",
-    "/en/ch2.md",
-    "/en/ch3.md",
-    "/en/ch4.md",
-    "/en/ch5.md",
-    "/en/ch6.md",
-    "/en/ch7.md",
-    "/en/cheet-sheet.md",
-    "/en/glossary.md",
-    "/en/reference.md",
-    "/en/afterward.md",
+  "/": [
+    "/forward.md",
+    "/ch2.md",
+    "/ch3.md",
+    "/ch4.md",
+    "/ch5.md",
+    "/ch6.md",
+    "/ch7.md",
+    "/cheet-sheet.md",
+    "/glossary.md",
+    "/reference.md",
+    "/afterward.md",
   ],
 };

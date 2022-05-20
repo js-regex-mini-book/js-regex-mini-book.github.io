@@ -15,7 +15,7 @@ export default defineUserConfig({
 
   // site-level locales config
   locales: {
-    "/en/": {
+    "/": {
       lang: "en-US",
       title: "JavaScript Regex Mini Book",
       description: "A JavaScript Regex Mini Book",
@@ -42,7 +42,7 @@ export default defineUserConfig({
        * As the default locale of @vuepress/theme-default is English,
        * we don't need to set all of the locale fields
        */
-      "/en/": {
+      "/": {
         // navbar
         navbar: navbarEn,
         // sidebar
