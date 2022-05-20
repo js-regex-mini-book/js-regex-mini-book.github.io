@@ -15,7 +15,7 @@ features:
   - title: 原理
     details: 深入剖析正则表达式原理
   - title: 应用
-    details: 通过实战分析解决应用难题
+    details: 通过实战分析来解决难题
 
 footer: MIT Licensed | Copyright © 2018-present @xiaoyu2er
 ---

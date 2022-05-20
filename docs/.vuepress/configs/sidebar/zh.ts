@@ -4,9 +4,11 @@ export const sidebarZh: SidebarConfig = {
   "/zh/blog/": [
     // blogs
     "/zh/blog/about.md",
+    "/zh/blog/translate.md",
   ],
   "/zh/": [
     "/zh/forward.md",
+    "/zh/ch1.md",
     "/zh/ch2.md",
     "/zh/ch3.md",
     "/zh/ch4.md",

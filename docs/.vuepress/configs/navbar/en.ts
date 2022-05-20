@@ -9,6 +9,7 @@ export const navbarEn: NavbarConfig = [
     text: "e-Book",
     children: [
       "/forward.md",
+      "/ch1.md",
       "/ch2.md",
       "/ch3.md",
       "/ch4.md",

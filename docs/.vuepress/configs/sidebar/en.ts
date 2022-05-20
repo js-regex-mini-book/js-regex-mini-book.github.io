@@ -4,9 +4,11 @@ export const sidebarEn: SidebarConfig = {
   "/blog/": [
     // blogs
     "/blog/about.md",
+    "/blog/translate.md",
   ],
   "/": [
     "/forward.md",
+    "/ch1.md",
     "/ch2.md",
     "/ch3.md",
     "/ch4.md",

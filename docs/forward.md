@@ -1,45 +1,34 @@
-# 前言
+# Forward
 
-## 版权说明
+## Copyright Statement
 
-首先感谢看到这本《JavaScript 正则表达式迷你书》的读者朋友，但愿此书不会浪费你的宝贵时间。
+## Tools This Books Use
 
-此书是一本免费的书籍，您可以随便传播，但不能用于商业。
+[Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>)
 
-当读完后，如果你觉得此书对学习正则表达式有所帮助，慷慨如你，可以扫描下面的二维码赞赏一下。
+[Processon](https://www.processon.com/)
 
-| 作者 老姚                                                            | 翻译 小鱼二                                                          |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img style="width:220px" src="/assets/forward/wechat-pay-yao.png" /> | <img style="width:220px" src="/assets/forward/wechat-pay-xy2.png" /> |
+[Vuepress](https://v2.vuepress.vuejs.org/)
+[Github](https://github.com/js-regex-mini-book/js-regex-mini-book.github.io)
 
-## 本书制作用到的工具
+[JavaScript 正则表达式迷你书（1.1 版）.pdf](https://github.com/qdlaoyao/js-regex-mini-book/raw/master/JavaScript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%BF%B7%E4%BD%A0%E4%B9%A6%EF%BC%881.1%E7%89%88%EF%BC%89.pdf)
 
-书中用的可视化图片是由 [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 正则表达式可视化工具生成。
+## Suggestions & Questions
 
-其余图片是由 [Processon](https://www.processon.com/) 制作。
-
-本网站是使用 [Vuepress](https://v2.vuepress.vuejs.org/) 生成并由 [Github](https://github.com/js-regex-mini-book/js-regex-mini-book.github.io) 托管。
-
-你仍然可以下载本书的 PDF 版本[JavaScript 正则表达式迷你书（1.1 版）.pdf](https://github.com/qdlaoyao/js-regex-mini-book/raw/master/JavaScript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%BF%B7%E4%BD%A0%E4%B9%A6%EF%BC%881.1%E7%89%88%EF%BC%89.pdf)
-
-## 意见和疑问
-
-如果有意见或者问题的话，可以直接通过以下方式联系到我（们）。
-
-- 作者：老姚
+- Author: qdlaoyao
   - [知乎](https://www.zhihu.com/people/qdlaoyao)
   - [掘金](https://juejin.im/user/58247e285bbb5000590e4824)
   - [Email](mailto://qdlaoyao@126.com)
   - [Github](https://github.com/qdlaoyao)
-- 翻译：小鱼二
+- Translator: xiaoyu2er
   - [知乎](https://www.zhihu.com/people/xiaoyu2er)
   - [掘金](https://juejin.cn/user/624178332449287)
   - [Email](mailto://zongyanqi@foxmail.com)
   - [Github](https://github.com/xiaoyu2er)
 
-确保你现在看的迷你书是最新版本，请点击这里：[js-regex-mini-book](https://github.com/js-regex-mini-book/js-regex-mini-book.github.io)
+[js-regex-mini-book](https://github.com/js-regex-mini-book/js-regex-mini-book.github.io)
 
-## 感谢
+## Thanks
 
 由于本书是由个人文章修改而成，感谢各平台读者的支持。
 
@@ -53,7 +42,7 @@
 
 最后，尤其要感谢各位大佬帮我写的推荐序。他们的名字不分先后如下：大漠穷秋、小鱼二、Jack Lo、程序猿 DD、江湖人称向前兄、文蔺、\_周末、Dark_Night。
 
-## 推荐序
+## Preface
 
 > 正则表达式一直是我的一个痛点，很多人肯定也跟我一样存在类似的情况。但是正则表达式的使用范围非常广泛，尤其在表单校验这个场景下更是不可或缺。这本小书用一个一个的小例子深入浅出地示范了正则表达式的典型用法，值得一读。
 >
@@ -87,7 +76,7 @@
 >
 > —— Dark_Night
 
-## 导读
+## Guide
 
 亲爱的读者朋友，如果你打开了这本书，说明你跟我一样，对正则很感兴趣。
 

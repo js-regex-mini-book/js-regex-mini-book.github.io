@@ -10,11 +10,11 @@ actions:
     link: /en/blog/about.html
     type: secondary
 features:
-  - title: 基础
+  - title: Basic
     details: 带你巩固正则表达式基础
-  - title: 原理
+  - title: Pricinple
     details: 深入剖析正则表达式原理
-  - title: 应用
+  - title: Application
     details: 通过实战分析解决应用难题
 
 footer: MIT Licensed | Copyright © 2018-present @xiaoyu2er

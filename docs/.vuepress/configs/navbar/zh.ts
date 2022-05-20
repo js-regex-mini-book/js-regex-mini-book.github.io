@@ -9,6 +9,7 @@ export const navbarZh: NavbarConfig = [
     text: "电子书",
     children: [
       "/zh/forward.md",
+      "/zh/ch1.md",
       "/zh/ch2.md",
       "/zh/ch3.md",
       "/zh/ch4.md",
