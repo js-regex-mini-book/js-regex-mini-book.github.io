@@ -1,0 +1,17 @@
+{
+  "name": "js-regex-mini-book",
+  "version": "1.0.0",
+  "description": "JavaScript Regex Mini Book",
+  "main": "index.js",
+  "repository": "git@github.com:xiaoyu2er/js-regex-mini-book.git",
+  "author": "xiaoyu2er <zongyanqi@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.45",
+    "vuepress-plugin-comment2": "2.0.0-beta.61"
+  }
+}
