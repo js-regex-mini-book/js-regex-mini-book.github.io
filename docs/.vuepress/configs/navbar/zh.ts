@@ -29,6 +29,10 @@ export const navbarZh: NavbarConfig = [
         text: "Regulex",
         link: "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24",
       },
+      {
+        text: "Diagrams",
+        link: "https://www.diagrams.net/",
+      },
     ],
   },
   {

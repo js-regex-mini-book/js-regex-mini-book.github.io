@@ -16,7 +16,9 @@
 
 书中用的可视化图片是由 [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 正则表达式可视化工具生成。
 
-其余图片是由 [Processon](https://www.processon.com/) 制作。
+原书的其余图片是由 [Processon](https://www.processon.com/) 制作。
+
+本网站整理时，全部用 [diagrams](https://www.diagrams.net/) 制作，且保留了源文件在 `docs/.vuepress/assets/js-regex.xml` 中，方便读者使用。
 
 本网站是使用 [Vuepress](https://v2.vuepress.vuejs.org/) 生成并由 [Github](https://github.com/js-regex-mini-book/js-regex-mini-book.github.io) 托管。
 
