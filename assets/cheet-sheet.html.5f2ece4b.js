@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as c,b as s}from"./app.94d16de1.js";const o={},_={id:"\u901F\u67E5\u8868",tabindex:"-1"},r=c("a",{class:"header-anchor",href:"#\u901F\u67E5\u8868","aria-hidden":"true"},"#",-1),h=s(" \u901F\u67E5\u8868"),n=[r,h];function d(i,f){return t(),a("h1",_,n)}var m=e(o,[["render",d],["__file","cheet-sheet.html.vue"]]);export{m as default};

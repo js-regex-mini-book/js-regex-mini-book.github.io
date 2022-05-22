@@ -1,0 +1,1 @@
+const e={key:"v-65d2b711",path:"/cheet-sheet.html",title:"\u901F\u67E5\u8868",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653013036e3,contributors:[{name:"xiaoyu2er",email:"zongyanqi@foxmail.com",commits:1}]},filePathRelative:"cheet-sheet.md"};export{e as data};

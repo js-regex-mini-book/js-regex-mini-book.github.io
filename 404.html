@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.45">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png"><link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="application-name" content="JS Regex Mini Book"><meta name="apple-mobile-web-app-title" content="JS Regex Mini Book"><meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png"><link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#3eaf7c"><meta name="msapplication-TileColor" content="#3eaf7c"><meta name="theme-color" content="#3eaf7c"><title>JavaScript Regex Mini Book</title><meta name="description" content="A JavaScript Regex Mini Book">
+    <link rel="modulepreload" href="/assets/app.94d16de1.js"><link rel="modulepreload" href="/assets/404.html.414b343c.js"><link rel="modulepreload" href="/assets/404.html.f166316b.js"><link rel="prefetch" href="/assets/index.html.a80419dd.js"><link rel="prefetch" href="/assets/afterward.html.76be4d58.js"><link rel="prefetch" href="/assets/ch1.html.792d5e64.js"><link rel="prefetch" href="/assets/ch2.html.a2a76534.js"><link rel="prefetch" href="/assets/ch3.html.9ad47fb3.js"><link rel="prefetch" href="/assets/ch4.html.36955f62.js"><link rel="prefetch" href="/assets/ch5.html.f26b3a7d.js"><link rel="prefetch" href="/assets/ch6.html.c3cf39a4.js"><link rel="prefetch" href="/assets/ch7.html.9ebbff7d.js"><link rel="prefetch" href="/assets/cheet-sheet.html.16c46316.js"><link rel="prefetch" href="/assets/forward.html.9e13f2f6.js"><link rel="prefetch" href="/assets/glossary.html.477e6a44.js"><link rel="prefetch" href="/assets/reference.html.b3d45f00.js"><link rel="prefetch" href="/assets/about.html.cedc7ae2.js"><link rel="prefetch" href="/assets/index.html.e5b692d7.js"><link rel="prefetch" href="/assets/afterward.html.633d7ec9.js"><link rel="prefetch" href="/assets/ch1.html.6e84dd81.js"><link rel="prefetch" href="/assets/ch2.html.f7c7bed9.js"><link rel="prefetch" href="/assets/ch3.html.9774ca8f.js"><link rel="prefetch" href="/assets/ch4.html.cd4adc13.js"><link rel="prefetch" href="/assets/ch5.html.40981efc.js"><link rel="prefetch" href="/assets/ch6.html.b4d7dcdb.js"><link rel="prefetch" href="/assets/ch7.html.4031bd47.js"><link rel="prefetch" href="/assets/cheet-sheet.html.60e0042e.js"><link rel="prefetch" href="/assets/forward.html.4e9e7776.js"><link rel="prefetch" href="/assets/glossary.html.014f5f5d.js"><link rel="prefetch" href="/assets/reference.html.46886e46.js"><link rel="prefetch" href="/assets/about.html.766fedc6.js"><link rel="prefetch" href="/assets/translate.html.71fed308.js"><link rel="prefetch" href="/assets/index.html.829ffd6d.js"><link rel="prefetch" href="/assets/afterward.html.e0d08e9e.js"><link rel="prefetch" href="/assets/ch1.html.57b9c7c7.js"><link rel="prefetch" href="/assets/ch2.html.a2ad564d.js"><link rel="prefetch" href="/assets/ch3.html.d6a0858a.js"><link rel="prefetch" href="/assets/ch4.html.ac5cbd65.js"><link rel="prefetch" href="/assets/ch5.html.a78218e6.js"><link rel="prefetch" href="/assets/ch6.html.91b3e658.js"><link rel="prefetch" href="/assets/ch7.html.c480ba1b.js"><link rel="prefetch" href="/assets/cheet-sheet.html.5f2ece4b.js"><link rel="prefetch" href="/assets/forward.html.f2155e72.js"><link rel="prefetch" href="/assets/glossary.html.f699c539.js"><link rel="prefetch" href="/assets/reference.html.d57ffd12.js"><link rel="prefetch" href="/assets/about.html.5629f361.js"><link rel="prefetch" href="/assets/index.html.dfd4ad3e.js"><link rel="prefetch" href="/assets/afterward.html.eb40776d.js"><link rel="prefetch" href="/assets/ch1.html.00ca974b.js"><link rel="prefetch" href="/assets/ch2.html.7370a179.js"><link rel="prefetch" href="/assets/ch3.html.02400888.js"><link rel="prefetch" href="/assets/ch4.html.0ff6f226.js"><link rel="prefetch" href="/assets/ch5.html.83a90753.js"><link rel="prefetch" href="/assets/ch6.html.602980ff.js"><link rel="prefetch" href="/assets/ch7.html.2fc78856.js"><link rel="prefetch" href="/assets/cheet-sheet.html.a521b659.js"><link rel="prefetch" href="/assets/forward.html.5b7fd395.js"><link rel="prefetch" href="/assets/glossary.html.05d98ca1.js"><link rel="prefetch" href="/assets/reference.html.be73cb22.js"><link rel="prefetch" href="/assets/about.html.bbc2dc65.js"><link rel="prefetch" href="/assets/translate.html.24c15956.js"><link rel="prefetch" href="/assets/404.8222a800.js"><link rel="prefetch" href="/assets/Layout.976050bc.js"><link rel="prefetch" href="/assets/giscus.es.10e3969d.js">
+    <link rel="stylesheet" href="/assets/style.5abb2179.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>How did we get here?</blockquote><a href="/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.94d16de1.js" defer></script>
+  </body>
+</html>

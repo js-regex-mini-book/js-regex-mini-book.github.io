@@ -1,0 +1,1 @@
+const t={key:"v-7f396553",path:"/zh/glossary.html",title:"\u672F\u8BED\u4E2D\u82F1\u6587\u5BF9\u7167\u8868",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653192855e3,contributors:[{name:"xiaoyu2er",email:"zongyanqi@foxmail.com",commits:2}]},filePathRelative:"zh/glossary.md"};export{t as data};
