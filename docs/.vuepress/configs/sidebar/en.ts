@@ -15,6 +15,7 @@ export const sidebarEn: SidebarConfig = {
     "/ch5.md",
     "/ch6.md",
     "/ch7.md",
+    "/afterward.md",
     "/cheet-sheet.md",
     "/glossary.md",
     "/reference.md",
