@@ -18,6 +18,5 @@ export const sidebarEn: SidebarConfig = {
     "/cheet-sheet.md",
     "/glossary.md",
     "/reference.md",
-    "/afterward.md",
   ],
 };
