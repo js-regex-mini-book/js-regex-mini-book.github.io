@@ -33,6 +33,10 @@ export const navbarZh: NavbarConfig = [
         text: "Diagrams",
         link: "https://www.diagrams.net/",
       },
+      {
+        text: "CodesSndbox",
+        link: "https://codesandbox.io",
+      },
     ],
   },
   {

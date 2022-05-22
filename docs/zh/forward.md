@@ -20,6 +20,8 @@
 
 本网站整理时，全部用 [diagrams](https://www.diagrams.net/) 制作，且保留了源文件在 `docs/.vuepress/assets/js-regex.xml` 中，方便读者使用。
 
+针对较为复杂的项目，使用 [CodeSandbox](https://codesandbox.io) 制作。
+
 本网站是使用 [Vuepress](https://v2.vuepress.vuejs.org/) 生成并由 [Github](https://github.com/js-regex-mini-book/js-regex-mini-book.github.io) 托管。
 
 你仍然可以下载本书的 PDF 版本[JavaScript 正则表达式迷你书（1.1 版）.pdf](https://github.com/qdlaoyao/js-regex-mini-book/raw/master/JavaScript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%BF%B7%E4%BD%A0%E4%B9%A6%EF%BC%881.1%E7%89%88%EF%BC%89.pdf)
