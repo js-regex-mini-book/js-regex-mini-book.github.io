@@ -18,7 +18,7 @@
 
 原书的其余图片是由 [Processon](https://www.processon.com/) 制作。
 
-本网站整理时，全部用 [diagrams](https://www.diagrams.net/) 制作，且保留了源文件在 `docs/.vuepress/assets/js-regex.xml` 中，方便读者使用。
+本网站整理时，全部用 [diagrams](https://www.diagrams.net/) 制作，且保留了源文件在 `docs/.vuepress/assets/js-regex.xml` 中，方便读者使用，[在线编辑地址](https://app.diagrams.net/?src=about#Hjs-regex-mini-book%2Fjs-regex-mini-book.github.io%2Fmaster%2Fdocs%2F.vuepress%2Fpublic%2Fassets%2Fjs-regex.drawio)。
 
 针对较为复杂的项目，使用 [CodeSandbox](https://codesandbox.io) 制作。
 
