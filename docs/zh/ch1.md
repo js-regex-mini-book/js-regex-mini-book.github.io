@@ -413,7 +413,7 @@ console.log(string.match(regex)[0]);
 解决之道，可以使用惰性匹配：
 
 ```js
-var regex = /id=".\*?"/;
+var regex = /id=".*?"/;
 var string = '<div id="container" class="main"></div>';
 console.log(string.match(regex)[0]);
 // => id="container"
